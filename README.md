@@ -5,9 +5,9 @@
 - I code for fun !
 - Maybe my code is bad, maybe i suck at programming, who knows ... Tell me then, Criticisms are welcome.
 
-- Currently working on:
-      - A web server in C
-      - A Json parsing library in C
+# Currently working on:
+- A web server in C
+- A Json parsing library in C
 
 <!---
 julien-remmery-vinci/julien-remmery-vinci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
